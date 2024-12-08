@@ -18,7 +18,7 @@ class _ListOfTopDoctorState extends State<ListOfTopDoctor> {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 150.h,
+      height: 165.h,
       child: ListView.separated(
         separatorBuilder: (context, index) {
           return SizedBox(
